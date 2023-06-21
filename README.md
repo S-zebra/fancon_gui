@@ -1,5 +1,5 @@
 # Fancon GUI
-Fan speed controller for macOS.
+GUI-based fan speed controller for Mac.
 
 # Requirements
 - `smcFanControl` (https://github.com/hholtmann/smcFanControl)
